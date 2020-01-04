@@ -1,2 +1,1 @@
-
-deploecho
+echo
